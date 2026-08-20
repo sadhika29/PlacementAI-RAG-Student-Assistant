@@ -1,0 +1,25 @@
+ABC Institute of Technology
+Training and Placement Cell
+
+PLACEMENT FREQUENTLY ASKED QUESTIONS
+
+Q: What is the general minimum CGPA?
+A: The general institute-level minimum CGPA is 7.0, although companies may specify different requirements.
+
+Q: Can students with active backlogs participate?
+A: The general placement policy requires students to have no active academic backlogs, although company-specific requirements may differ.
+
+Q: Should I prepare my resume?
+A: Yes. Students should maintain a concise and accurate professional resume.
+
+Q: What should I study for technical interviews?
+A: Students should revise programming, data structures, algorithms, databases, operating systems and other subjects relevant to the job role.
+
+Q: How should I prepare for HR interviews?
+A: Practice common HR questions, improve communication skills and research the organization and job role.
+
+Q: What should I do before an interview?
+A: Review your resume, research the organization, revise relevant technical concepts and prepare questions for the interviewer.
+
+Q: Can company requirements differ?
+A: Yes. Recruiting organizations may define additional eligibility and skill requirements.

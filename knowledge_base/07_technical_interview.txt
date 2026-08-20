@@ -1,0 +1,23 @@
+ABC Institute of Technology
+Training and Placement Cell
+
+TECHNICAL INTERVIEW GUIDELINES
+
+Technical interviews may evaluate fundamental knowledge relevant to the student's degree and the job role.
+
+For computer science students, important areas may include:
+
+1. Programming fundamentals.
+2. Data structures and algorithms.
+3. Object-oriented programming.
+4. Database management systems.
+5. Operating systems.
+6. Computer networks.
+7. Software engineering.
+8. Basic machine learning when relevant.
+
+Students should be able to explain the projects listed on their resumes.
+
+Candidates should understand the technologies they claim as skills.
+
+Students should practice solving programming problems and explaining their approach clearly.
